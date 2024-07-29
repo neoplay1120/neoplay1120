@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Check out my repos ⬇️  
+ 
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
