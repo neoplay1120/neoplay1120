@@ -6,9 +6,6 @@
 </p>
 
 
-<p align="center">
-<a href= "https://www.youtube.com/channel/UCUQ1v0aLwV8JVUNghKp1fZA"><img src="Youtube_icon-icons.com_66802.png"/></a>
-</p>
 
 <p align="center">
 Check out my repos ⬇️  
